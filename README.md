@@ -39,6 +39,9 @@ Build type: RelWithDebInfo
 LuaJIT 2.1.1710088188
 Run ":verbose version" for more info
 
+https://github.com/Kamholtz/nfnl-aucommand-bug-repro/assets/13547250/f5f601a0-ba24-4912-baf5-11ee4bd4c7bf
+
+
 ## Working version
 :version
 NVIM v0.9.5
@@ -58,3 +61,5 @@ ID:/a/neovim/neovim/.deps/usr/include -ID:/a/neovim/neovim/.deps/usr/include
   fall-back for $VIM: "C:/Program Files (x86)/nvim/share/nvim"
 
 Run :checkhealth for more info
+
+https://github.com/Kamholtz/nfnl-aucommand-bug-repro/assets/13547250/10e1488c-a167-4ebd-bcca-f6c30a4903a5
